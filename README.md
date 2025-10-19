@@ -18,11 +18,10 @@
 - **Python**  
 - **OpenAI Agents SDK**  
 - **GitHub API**
+- **Gemini API**
 
 ---
 
-## Setup & Installation
+## Live URL
+🎥 [Watch GitHub Agent Live Performance](https://drive.google.com/file/d/1yZfa4-5nrKcs1ANdk2ymxAChL75a5vzR/view)
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/GitHub_Agent.git
